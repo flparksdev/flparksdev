@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ben637482548.github.io/</loc>
-    <lastmod>2024-02-24</lastmod>
+    <loc>https://flparksdev.github.io/</loc>
+    <lastmod>2025-02-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ben637482548.github.io/floridaparkfinder-privacy/</loc>
-    <lastmod>2024-02-24</lastmod>
+    <loc>https://flparksdev.github.io/privacy-policy.html</loc>
+    <lastmod>2025-02-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://flparksdev.github.io/terms.html</loc>
+    <lastmod>2025-02-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
