@@ -244,7 +244,17 @@ footer p {
     }
     
     nav ul {
-        gap: 15px;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+    }
+
+    nav ul li {
+        margin-bottom: 5px;
+    }
+
+    .app-branding h1 {
+        font-size: 1rem;
     }
     
     .hero {
@@ -272,4 +282,8 @@ footer p {
         gap: 20px;
         text-align: center;
     }
+}
+
+nav ul li a {
+    white-space: nowrap;
 }
